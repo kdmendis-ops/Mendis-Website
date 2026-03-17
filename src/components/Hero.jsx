@@ -14,6 +14,19 @@ export default function Hero() {
 
       <div className="relative z-10 max-w-3xl mx-auto px-6 text-center">
         <motion.div
+          initial={{ opacity: 0, scale: 0.8 }}
+          animate={{ opacity: 1, scale: 1 }}
+          transition={{ duration: 0.5 }}
+          className="mb-8 flex justify-center"
+        >
+          <img
+            src="/profile.jpg"
+            alt="Shaun Kappina Mendis"
+            className="w-36 h-36 rounded-full object-cover object-top border-4 border-accent shadow-lg"
+          />
+        </motion.div>
+
+        <motion.div
           initial={{ opacity: 0, y: 30 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.6 }}
