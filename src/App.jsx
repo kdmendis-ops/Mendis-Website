@@ -4,6 +4,7 @@ import Skills from "./components/Skills";
 import Projects from "./components/Projects";
 import Experience from "./components/Experience";
 import Resume from "./components/Resume";
+import ChatBot from "./components/ChatBot";
 import { personal } from "./data/content";
 
 export default function App() {
@@ -25,6 +26,8 @@ export default function App() {
           </p>
         </div>
       </footer>
+
+      <ChatBot />
     </div>
   );
 }

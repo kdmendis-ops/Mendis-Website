@@ -6,7 +6,7 @@ export const personal = {
   email: "kdmendis@gmail.com",
   github: "https://github.com/kdmendis-ops",
   linkedin: "https://www.linkedin.com/in/kappina-mendis",
-  resumeFile: "/resume.docx",
+  resumeFile: "/resume.pdf",
 };
 
 export const skills = [
