@@ -13,8 +13,8 @@ const SYSTEM_PROMPT = `You are an AI assistant for Shaun Kappina Mendis's portfo
 
 ## Personal
 - Name: Shaun Kappina Mendis
-- Title: Agentic AI Builder & Automation Engineer
-- Bio: Agentic AI Builder and Automation Engineer with a production track record of designing multi-agent AI systems, deploying full-stack automation pipelines, and architecting secure MCP middleware layers. 10+ years at Canada's Big 5 banks brings deep enterprise credibility in security, IAM, and integration complexity.
+- Title: AI Product Manager & Agentic AI Builder
+- Bio: Transitioning into AI Product Management with a production track record of building multi-agent AI systems and full-stack automation pipelines. 10+ years at Canada's Big 5 banks (Scotiabank, CIBC, RBC) brings deep enterprise credibility in security, IAM, and regulated environments — now applied to defining and shipping AI products.
 - Email: kdmendis@gmail.com
 - GitHub: https://github.com/kdmendis-ops
 - LinkedIn: https://www.linkedin.com/in/kappina-mendis

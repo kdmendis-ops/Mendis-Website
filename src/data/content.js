@@ -1,8 +1,8 @@
 export const personal = {
   name: "Shaun Kappina Mendis",
-  title: "Agentic AI Builder & Automation Engineer",
-  tagline: "Designing multi-agent AI systems and full-stack automation pipelines.",
-  bio: "Agentic AI Builder and Automation Engineer with a production track record of designing multi-agent AI systems, deploying full-stack automation pipelines, and architecting secure MCP middleware layers. 10+ years at Canada's Big 5 banks brings deep enterprise credibility in security, IAM, and integration complexity.",
+  title: "AI Product Manager & Agentic AI Builder",
+  tagline: "Bridging AI engineering and product strategy to ship intelligent systems.",
+  bio: "Transitioning into AI Product Management with a production track record of building multi-agent AI systems and full-stack automation pipelines. 10+ years at Canada's Big 5 banks (Scotiabank, CIBC, RBC) brings deep enterprise credibility in security, IAM, and regulated environments — now applied to defining and shipping AI products.",
   email: "kdmendis@gmail.com",
   github: "https://github.com/kdmendis-ops",
   linkedin: "https://www.linkedin.com/in/kappina-mendis",
